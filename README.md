@@ -35,6 +35,8 @@
    python latex_to_mathtype.py
    ```
 
+   另外也提供编译好得EXE应用程序
+
 2. **界面说明**
 
    - **LaTeX 输入**：在上方文本框输入你的 LaTeX 公式（无需 `$` 或 `\begin{equation}` 环境）。
